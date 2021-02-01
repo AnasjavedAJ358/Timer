@@ -1,0 +1,111 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+   
+}
+h1{
+    width: 30px;
+    display: inline-block;
+    padding: 20px;
+    justify-content: center;
+border: 1px solid rgb(20, 63, 252);
+background-color: white;
+color: black;
+border-radius: 8px;
+}
+
+#xyz{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    border: 2px solid rgb(13, 27, 233);
+    margin-top: 170px;
+    border-radius: 10px;
+    background-color:rgb(117, 133, 206);
+    box-shadow: 2px 2px 5px rgb(214, 233, 222);
+}
+
+
+.abc{
+    margin-top:100px;
+    margin-left:150px;
+    
+}
+.abc input{
+   
+    padding: 10px;
+    height: 30px;
+    font-size: larger;
+    font-weight: bolder;
+    width: 80px;
+    color: black;
+    box-shadow: 2px 2px 5px gray;
+    outline: none;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+
+td{
+    padding: 10px;
+}
+
+#btn1{
+    padding: 5px;
+    width: 120px;
+    height:50px;
+    margin-left:250px;
+    margin-top: 30px;
+    border-radius: 8px;
+  font-weight: bolder;
+    color:white;
+    outline: none;
+    background-color: rgb(13, 61, 253);
+    font-size: larger;
+}
+
+#btn1:active{
+    border: none;
+}
+
+.new{
+    display: none;
+}
+
+.timer{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    border: 2px solid rgb(13, 27, 233);
+    margin-top: 170px;
+    border-radius: 10px;
+    background-color:rgb(117, 133, 206);
+}
+.timer h1{
+    padding: 20px;
+}
+.countdown{
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.btn2{
+    
+    margin-left: 150px;
+}
+
+.btn2 button{
+    
+    padding: 3px;
+    height: 60px;
+    width: 100px;
+    border: 2px solid rgb(4, 4, 240);
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bolder;
+    background-color: blue;
+color: white;
+    outline: none;
+}
